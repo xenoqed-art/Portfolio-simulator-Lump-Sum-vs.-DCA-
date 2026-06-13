@@ -27,7 +27,7 @@ When the program prompts you for the information, please note the following:
 2. **Space-Separated:** If you are analyzing a multi-asset portfolio, enter the tickers on a single line, separated only by spaces. 
    * *Example:* AAPL MSFT GOOG
 3. **Report Generation:** At the end of the simulation, the terminal will ask if you want to generate a PDF report. If you type 'y' (yes), you will be prompted to name the file, and the PDF will be automatically saved in the same directory.
-4. You can change the CETES to your country Treasury Certificate (the minimum risk instrument) to change the benchmark according your inflations country.
+4. You can change the badge and CETES to your country Treasury Certificate (the minimum risk instrument) to change the benchmark according your inflations country.
 
 ## Output Example
 The script provides a clean terminal summary and generates a visual layout containing:
